@@ -108,7 +108,7 @@ int main()
 
         case 6:
         	system("cls");
-            printf("\n\n\t\tTHANK YOU FOR USING THIS SOFTWARE \n\n\n\n\t\tBROUGHT TO YOU BY code-projects.org\n\n ");
+            printf("\n\n\t\tTHANK YOU FOR USING THIS SOFTWARE \n\n\n\n\t\tBROUGHT TO YOU BY ALLSAFECYBER\n\n ");
             getch();
             exit(0);
 
